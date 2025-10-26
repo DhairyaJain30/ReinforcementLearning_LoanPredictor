@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+tensorflow==2.16.1
+d3rlpy==2.8.1
+tqdm
