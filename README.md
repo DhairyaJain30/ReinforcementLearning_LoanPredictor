@@ -34,7 +34,7 @@ The project is divided into three main parts:
 You can recreate the exact environment using either `pip` or a virtual environment.  
 The code is tested with **Python 3.10+** and **d3rlpy 2.8.1**.
 
-### 🧰 Option 1 — Using pip
+### 🧰 Using pip
 ```bash
 git clone https://github.com/DhairyaJain30/ReinforcementLearning_LoanPredictor
 
